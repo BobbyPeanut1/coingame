@@ -1,0 +1,1 @@
+print("The secret score is france vs israel 2:1")
