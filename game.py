@@ -7,6 +7,6 @@ player_input = input()
 coin_flip = random.choice(["Heads", "Tails"])
 
 if player_input == coin_flip:
-    print("You won! :)")
+    print("You won!")
 else:
-    print(f"Sorry it was {coin_flip} :(")
+    print(f"Sorry it was {coin_flip}")
